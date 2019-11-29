@@ -20,6 +20,5 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	city : attributes.uriParams.city
 }]]]></http:uri-params>
 		</http:request>
-		<logger level="INFO" doc:name="Logger" doc:id="d5ce110f-7e20-4a72-bb35-05b3e4a01513" message="Message Quit" />
 	</flow>
 </mule>
