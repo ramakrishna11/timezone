@@ -27,7 +27,7 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 			<plugin>
   				<groupId>org.mule.tools.maven</groupId>
   				<artifactId>mule-maven-plugin</artifactId>
-  				<version>3.6.2</version>
+  				<version>3.2.7</version>
   				<extensions>true</extensions>
 	  			<configuration>
 					<cloudHubDeployment>
