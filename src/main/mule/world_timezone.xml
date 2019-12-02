@@ -22,4 +22,16 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		</http:request>
 		<logger level="INFO" doc:name="Logger" doc:id="8857a266-0e2c-49ba-838e-d2357c7932f3" />
 	</flow>
+	<configuration>
+	<cloudHubDeployment>
+	<username>Ramakrishna0987</username>
+	<password>Ramveena@12</password>
+	<environment>Sandbox</environment>
+	<workers>1</workers>
+	<workerType>Micro</workerType>
+	<applicationName>worldtimezone</applicationName>
+	<muleVersion>4.2.4</muleVersion>
+	</cloudHubDeployment>
+	</configuration>
+	
 </mule>
