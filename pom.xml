@@ -34,7 +34,7 @@
       				<applicationName>worldtimezone</applicationName>
       				<environment>Sandbox</environment>
 	  				<workers>1</workers>
-					<workerType>SMALL </workerType>
+					<workerType>Micro</workerType>
     				</cloudHubDeployment>
 				</configuration>
 			</plugin>
