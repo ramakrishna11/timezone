@@ -31,14 +31,13 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
   				<extensions>true</extensions>
 	  			<configuration>
 					<cloudHubDeployment>
-      				<uri>https://anypoint.mulesoft.com/</uri>
-      				<muleVersion>4.2.4</muleVersion>
-      				<username>Ramakrishna0987</username>
-      				<password>Ramveena@12</password>
-      				<applicationName>worldtimezone</applicationName>
-      				<environment>Sandbox</environment>
-	  				<workers>1</workers>
-					<workerType>SMALL </workerType>
+      					<muleVersion>4.2.4</muleVersion>
+      					<username>Ramakrishna0987</username>
+      					<password>Ramveena@12</password>
+      					<applicationName>worldtimezone</applicationName>
+      					<environment>Sandbox</environment>
+	  					<workers>1</workers>
+						<workerType>SMALL</workerType>
     				</cloudHubDeployment>
 				</configuration>
 			</plugin>
